@@ -1,7 +1,7 @@
 # Epsagon Terraform AWS Integration - Existing Cloudtrail
 
 Note: Only use this module if you already have an existing cloudtrail in your epsagon account.
-Otherwise, check out our [regular terraform integration](https://github.com/epsagon/epsagon-terraform/blob/master/main.tf)
+Otherwise, check out our [regular terraform integration](https://github.com/epsagon/epsagon-terraform)
 
 Setup Epsagon <-> AWS integration module
 
